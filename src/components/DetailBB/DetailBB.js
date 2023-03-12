@@ -1,5 +1,5 @@
 
-const ItemDetail =({data}) => {
+const DetailBB =({data}) => {
 
     return (
         <div>
@@ -11,4 +11,4 @@ const ItemDetail =({data}) => {
     )
 }
 
-export default ItemDetail;
+export default DetailBB;

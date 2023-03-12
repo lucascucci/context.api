@@ -8,8 +8,7 @@ const ItemListContainer = () => {
     return (
         <>
             {data.map((data)=>(
-                <ItemList data={data} 
-                key={data.id} />
+                <ItemList data={data} key={data.id} />
             ))}
         </>
     )

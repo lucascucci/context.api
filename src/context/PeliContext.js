@@ -34,7 +34,7 @@ const PeliProvider = ({children}) => {
     console.log(data)
 
     return (
-        <PeliContext.Provider value={{data, setData}}>
+        <PeliContext.Provider value={{data}}>
             {children}
         </PeliContext.Provider>
     )

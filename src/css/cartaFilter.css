@@ -1,0 +1,31 @@
+.h1CardFilter{
+    font-size: 16px;
+}
+
+.imgCardFilter{
+    height: 400px;
+    width: auto;
+    margin-bottom: 20px;
+}
+
+.btnCardFilter{
+    width: 80px;
+}
+
+.containerCard{
+    border: 2px solid black;
+    border: 2%;
+    padding: 10px;
+    
+}
+
+.containerCard{
+    display: flex;
+    align-items:center;
+    justify-content:space-between;
+    background-color: beige;
+    flex-direction: row;
+    
+}
+
+
